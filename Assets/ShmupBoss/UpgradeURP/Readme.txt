@@ -1,0 +1,5 @@
+When importing Shmup Boss into your project, please note that it will default to the standard graphic settings. This means that even if you import Shmup Boss into a URP project, it will change the graphics settings back into the default render settings which isn't URP.
+
+To upgrade into URP, click on the "URP_2019.4+" asset and after importing into your project, please go to the edit menu, then to project settings and enter the graphics tab. There you can quickly change the graphics settings into URP by clicking on the small presets icon on the top right (the small icon in between the settings and help icons in the graphics tab) and then select the graphics seetings preset provided in the URPSettings folder (the only preset which you can see after clicking on the presets icon).
+
+If you need any help, please feel free to get in touch at the support forum thread here: https://forum.unity.com/threads/1030870/
